@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @HARSHKINDACODE
-- 👀 I’m interested in CODING/WEBDEV
+- 👀 I’m interested in ARTIFICIAL INTELIGENCE & MACHINE LEARNING
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m 6'1
 - 📫 reach me @harshkindacode@gmail.com
-- 😄 Pronouns: seedhe/maut
+- 😄 Pronouns: AI/ML
 - ⚡ Fun fact: i can cook
 
 <!---

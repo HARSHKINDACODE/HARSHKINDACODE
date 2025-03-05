@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HARSHKINDACODE
 - 👀 I’m interested in ARTIFICIAL INTELIGENCE & MACHINE LEARNING
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning PYTHON
 - 💞️ I’m 6'1
 - 📫 reach me @harshkindacode@gmail.com
 - 😄 Pronouns: AI/ML
